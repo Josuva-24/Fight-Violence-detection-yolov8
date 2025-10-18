@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+# Torch not pinned; install appropriate CUDA/CPU build from pytorch.org if needed
+torch>=2.0.0
+torchvision>=0.15.0

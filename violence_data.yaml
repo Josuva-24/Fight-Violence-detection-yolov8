@@ -1,0 +1,5 @@
+train: /mnt/disk1/Hackathon/Fight-Violence-detection-yolov8/violence_dataset/images/train
+val: /mnt/disk1/Hackathon/Fight-Violence-detection-yolov8/violence_dataset/images/val
+
+nc: 2
+names: ['non_violence', 'violence']
